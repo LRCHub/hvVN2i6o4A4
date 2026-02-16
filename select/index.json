@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "base_track": "Brave Shine",
+  "base_artist": "Aimer",
+  "createdAt": "2026-02-16T06:50:44.656905Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brave Shine",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_Brave_Shine_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brave Shine",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_Brave_Shine_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brave Shine",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_Brave_Shine_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brave Shine TV Size",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_Brave_Shine_TV_Size_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brave Shine",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_Brave_Shine_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brave Shine (From \"Fate/stay night: Unlimited Blade Works\") [REMIX]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Brave_Shine_(From__Fate_stay_night__Unlimited_Blade_Works_)_[REMIX]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brave Shine (from \"Fate/Stay Night\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/07_Brave_Shine_(from__Fate_Stay_Night_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brave Shine",
+      "artist": "Aimer(エメ)",
+      "has_synced": true,
+      "path": "select/08_Brave_Shine_Aimer(エメ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brave Shine",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_Brave_Shine_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brave Shine (Fate/Stay Night: Unlimited Blade Works)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/10_Brave_Shine_(Fate_Stay_Night__Unlimited_Blade_Works)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brave Shine (from “Fate/Stay Night”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/11_Brave_Shine_(from_“Fate_Stay_Night”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aimer/Brave Shine (期間生産限定アニメ盤)/Brave Shine-Aimer",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_Aimer_Brave_Shine_(期間生産限定アニメ盤)_Brave_Shine-Aimer_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brave Shine",
+      "artist": "Blinding Sunrise",
+      "has_synced": true,
+      "path": "select/13_Brave_Shine_Blinding_Sunrise.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brave Girl",
+      "artist": "Callista Clark",
+      "has_synced": true,
+      "path": "select/14_Brave_Girl_Callista_Clark.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Home of the Brave",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/15_Home_of_the_Brave_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rum Brave",
+      "artist": "Murder By Death",
+      "has_synced": true,
+      "path": "select/16_Rum_Brave_Murder_By_Death.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Being Brave",
+      "artist": "Menswear",
+      "has_synced": false,
+      "path": "select/17_Being_Brave_Menswear.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Glory to the Brave - Live",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/18_Glory_to_the_Brave_-_Live_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Glory to the Brave - Radio Edit",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/19_Glory_to_the_Brave_-_Radio_Edit_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Glory to the Brave - Remastered",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/20_Glory_to_the_Brave_-_Remastered_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Home of the Brave",
+      "artist": "TOTO",
+      "has_synced": false,
+      "path": "select/21_Home_of_the_Brave_TOTO.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Home of the Brave",
+      "artist": "Toto",
+      "has_synced": true,
+      "path": "select/22_Home_of_the_Brave_Toto.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Brave New World",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/23_Brave_New_World_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Brave New World",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/24_Brave_New_World_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Only the Brave",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/25_Only_the_Brave_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Brave",
+      "artist": "Momma",
+      "has_synced": true,
+      "path": "select/26_Brave_Momma.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Brave New World",
+      "artist": "Glenn Frey",
+      "has_synced": true,
+      "path": "select/27_Brave_New_World_Glenn_Frey.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Brave New World",
+      "artist": "Public Image Ltd.",
+      "has_synced": true,
+      "path": "select/28_Brave_New_World_Public_Image_Ltd..lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Your Brave Face",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/29_Your_Brave_Face_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Already Gone (feat. Brave & Lido)",
+      "artist": "Alison Wonderland",
+      "has_synced": true,
+      "path": "select/30_Already_Gone_(feat._Brave_&_Lido)_Alison_Wonderland.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Be Brave",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/31_Be_Brave_Owl_City.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Brave",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_The_Brave_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Brave",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_02_The_Brave_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_03_Brave_Shine_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_04_Brave_Shine_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_05_Brave_Shine_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_06_Brave_Shine_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_07_Brave_Shine_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_08_Brave_Shine_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_09_Brave_Shine_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Brave Shine",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_10_Brave_Shine_澤野弘之.txt"
+    }
+  ]
+}
